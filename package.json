@@ -1,4 +1,5 @@
- "name": "docgen-pro-cybercafe",
+{
+  "name": "docgen-pro-cybercafe",
   "version": "1.0.0",
   "description": "Générateur de documents intelligent pour cybercafé",
   "main": "server.js",
